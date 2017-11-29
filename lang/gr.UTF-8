@@ -36,56 +36,54 @@ body_usermin=Έκδοση Usermin
 body_virt=Εικονική μνήμη
 body_webmin=Έκδοση Webmin
 
-left_favorites=Favorites
-left_favorites_no=There were no favorites added yet...
-left_feedback=Send Feedback
-left_home=System Information
-left_others=Others
-left_refresh_modules=Refresh Modules
-left_search=Search
-left_statistics=System Statistics
+left_favorites=Αγαπημένα
+left_favorites_no=Δεν έχουν προστεθεί ακόμη αγαπημένα...
+left_feedback=Στείλτε Σχόλια
+left_home=Πληροφορίες Συστήματος
+left_others=Άλλα
+left_refresh_modules=Ανανέωση Ενοτήτων
+left_search=Αναζήτηση
+left_statistics=Στατιστικά Συστήματος
 
-login_danger=Danger!
-login_message=You must enter a username and password to login to the server on
-login_pass=Password
-login_save=Remember me
-login_signin=Sign in
-login_success=Success!
+login_danger=Κίνδυνος!
+login_message=Πρέπει να να εισάγετε ένα όνομα χρήστη και έναν κωδικό πρόσβασης για να συνδεθείτε στο διακομιστή
+login_pass=Κωδικός
+login_save=Να με θυμάσαι
+login_signin=Σύνδεση
+login_success=Επιτυχία!
 login_token=Token
-login_user=Username
-login_warning=Warning!
+login_user=Όνομα χρήστη
+login_warning=Προειδοποίηση!
 
-right_aliases=Alias servers
-right_bw=Bandwith usage and limit
-right_dom=Your server name
-right_faliases=Mail aliases
-right_fdbs=Databases
-right_fdoms=Virtual Servers
-right_from=Logged in from
-right_fusers2=FTP users
-right_fusers=Mail/FTP users
-right_fvm2=Virtual Machines
-right_fweb=Virtual Websites
-right_licenceheader_vm2=Cloudmin Licenses
-right_login=Logged in as
-right_not=Not installed
-right_of=$1 out of $2
-right_quota=Disk usage and quota
-right_reselip=(Reseller $1)
-right_sharedip=(Shared IP)
-right_slcheck=Re-Check Cloudmin License
-right_subs=Sub-servers
-right_virtdocs2=Additional documentation
-right_virtualmin=Virtualmin version
-right_vlcheck=Re-Check Virtualmin License
-right_vm2=Cloudmin version
+right_aliases=Ψευδώνυμα διακομιστές
+right_bw=Χρήση και όριο εύρους ζώνης
+right_dom=Το όνομα του διακομιστή σας
+right_faliases=Ψευδώνυμα ηλ. ταχυδρομείου
+right_fdbs=Βάσεις δεδομένων
+right_fdoms=Εικονικοί διακομιστές
+right_from=Συνδεδεμένος από
+right_fusers2=Χρήστες FTP
+right_fusers=Χρήστες Ηλ. ταχυδρομείου/FTP
+right_fvm2=Εικονικές Μηχανές
+right_fweb=Εικονικές Ιστοσελίδες
+right_licenceheader_vm2=Άδειες Cloudmin
+right_login=Συνδεδεμένος σαν
+right_not=Μη εγκατεστημένο
+right_of=$1 από $2
+right_quota=Χρήση δίσκου και quota
+right_reselip=(Μεταπωλητής $1)
+right_sharedip=(Κοινόχρηστη IP)
+right_slcheck=Επανέλεγχος Άδειας Cloudmin
+right_subs=Υπο-διακομιστές
+right_virtdocs2=Επιπρόσθετη τεκμηρίωση
+right_virtualmin=Έκδοση Virtualmin
+right_vlcheck=Επανέλεγχος Άδειας Virtualmin
+right_vm2=Έκδοση Cloudmin
 
-session_failed=Login failed. Please try again.
-session_logout=Logout successful. Use the form below to login again.
-session_timed_out=Session timed out after $1 minutes of inactivity.
-session_twofailed=Two-factor authentication failed: $1
-
-
+session_failed=Η σύνδεση απέτυχε. Παρακαλώ προσπαθήστε ξανά.
+session_logout=Η αποσύνδεση ήταν επιτυχής. Χρησιμοποιήστε την παρακάτω φόρμα για να ξανασυνδεθείτε.
+session_timed_out=Η συνεδρία έληξε μετά από $1 λεπτά αδράνειας.
+session_twofailed=Ο έλεγχος ταυτότητας δύο παραγόντων απέτυχε: $1
 
 
 
@@ -94,33 +92,35 @@ session_twofailed=Two-factor authentication failed: $1
 
 
 
-settings_right_options=Options
-settings_right_restore_defaults=Restore defaults
-settings_right_restored=Restored
-settings_right_restoring=Restoring
-settings_right_saved=Saved
-settings_right_saving=Saving
 
-settings_right_theme_extensions=Theme extensions
-settings_right_theme_extensions_title=Theme Extensions
-settings_right_file_edit=Edit extension file:
-settings_right_extensions_title=Theme extensive design, enables you easily manipulate on targeted parts of the interface.
 
-settings_right_theme_logos=Theme logos
-settings_right_theme_logos_title=Theme Logos
-settings_right_logos_title=Theme logos can be easily set here, for both, authenticated and unauthenticated users. Recommended logo size is <kbd>180x90</kbd> pixels and the only supported format is <kbd>.png</kbd>, to provide alpha transparency.
-settings_right_logo_authenticated_users=Logo for authenticated users
-settings_right_logo_unauthenticated_users=Logo for unauthenticated users
+settings_right_options=Επιλογές
+settings_right_restore_defaults=Επαναφορά προεπιλογών
+settings_right_restored=Επαναφέρθηκαν
+settings_right_restoring=Γίνεται επαναφορά
+settings_right_saved=Αποθηκεύτηκαν
+settings_right_saving=Γίνεται αποθήκευση
 
-settings_right_current_theme=Current theme
+settings_right_theme_extensions=Επεκτάσεις θέματος
+settings_right_theme_extensions_title=Επεκτάσεις Θέματος
+settings_right_file_edit=Επεξεργασία αρχείου επέκτασης:
+settings_right_extensions_title=Ο σχεδιασμός του θέματος με την επεκτασιμότητα υπόψη, σας επιτρέπει να επέμβετε στην εμφάνιση στοχευμένων σημείων της διασύνδεσης χρήστη.
+
+settings_right_theme_logos=Λογότυπα θέματος
+settings_right_theme_logos_title=Λογότυπα Θέματος
+settings_right_logos_title=Τα λογότυπα του θέματος μπορούν να οριστούν από εδώ με ευκολία, για τους πιστοποιημένους ή όχι χρήστες. Το προτεινόμενο μέγεθος του λογότυπου είναι <kbd>180x90</kbd> πίξελ και ο μόνος υποστηριζόμενος τύπος αρχείου είναι <kbd>.png</kbd>, για να παρέχεται άλφα διαφάνεια.
+settings_right_logo_authenticated_users=Λογότυπο για τους πιστοποιημένους χρήστες
+settings_right_logo_unauthenticated_users=Λογότυπο για τους μη πιστοποιημένους χρήστες
+
+settings_right_current_theme=Τρέχων θέμα
 settings_right_title=This page allows you to configure options for <a href="https://github.com/qooob/authentic-theme" target="_blank">Authentic Theme</a>. Settings will be stored upon theme update.
-settings_right_theme_left_configuration_title=Authentic Theme Configuration
-settings_right_theme_left_extensions_title=Authentic Theme Extensions Editor
-settings_right_theme_left_logo_title=Authentic Theme Logo Control
-settings_right_theme_configurable_options_title=Configurable options for Authentic Theme
+settings_right_theme_left_configuration_title=Ρυθμίσεις Authentic Theme
+settings_right_theme_left_extensions_title=Επεξεργαστής Επεκτάσεων του Authentic Theme
+settings_right_theme_left_logo_title=Κέντρο ελέγχου λογότυπων για το Authentic Theme
+settings_right_theme_configurable_options_title=Ρυθμίσιμες επιλογές του Authentic Theme
 
 
-settings_right_window_options_title=Window options
+settings_right_window_options_title=Επιλογές παραθύρου
 settings_right_navigation_menu_title=Navigation menu options
 settings_right_table_options_title=Table options
 settings_security_title=Security Alerts options
@@ -129,15 +129,15 @@ settings_right_hotkey_options_title=Hotkey options
 settings_right_sysinfo_page_options_title=System Information page options
 
 settings_right_hotkey_custom_options_description=Custom links enable you to use digits from <code>1</code> to <code>9</code> in order to quick-access any valid Webmin/Usermin/Virtualmin/Cloudmin <code>URL.</code> The <code>URL</code> can be extracted from the currently opened right frame content page, by reading its source. It's important that <code>URL</code> has no slash at the beginning and doesn't use prefixes. For example, to quick-switch to Apache, set to <code>custom link 1</code> field <code>/apache/</code>. If the default hotkeys modifier set to <code>Alt,</code> clicking <code>Alt+1</code>, will open you Apache module
-settings_hotkey_custom_1=Custom link <code>1</code>
-settings_hotkey_custom_2=Custom link <code>2</code>
-settings_hotkey_custom_3=Custom link <code>3</code>
-settings_hotkey_custom_4=Custom link <code>4</code>
-settings_hotkey_custom_5=Custom link <code>5</code>
-settings_hotkey_custom_6=Custom link <code>6</code>
-settings_hotkey_custom_7=Custom link <code>7</code>
-settings_hotkey_custom_8=Custom link <code>8</code>
-settings_hotkey_custom_9=Custom link <code>9</code>
+settings_hotkey_custom_1=Προσαρμοσμένη σύνδεση <code>1</code>
+settings_hotkey_custom_2=Προσαρμοσμένη σύνδεση <code>2</code>
+settings_hotkey_custom_3=Προσαρμοσμένη σύνδεση <code>3</code>
+settings_hotkey_custom_4=Προσαρμοσμένη σύνδεση <code>4</code>
+settings_hotkey_custom_5=Προσαρμοσμένη σύνδεση <code>5</code>
+settings_hotkey_custom_6=Προσαρμοσμένη σύνδεση <code>6</code>
+settings_hotkey_custom_7=Προσαρμοσμένη σύνδεση <code>7</code>
+settings_hotkey_custom_8=Προσαρμοσμένη σύνδεση <code>8</code>
+settings_hotkey_custom_9=Προσαρμοσμένη σύνδεση <code>9</code>
 
 settings_navigation_color=Navigation menu color palette
 settings_background_color=Content page color palette
